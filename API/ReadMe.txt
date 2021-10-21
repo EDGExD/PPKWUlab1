@@ -1,0 +1,2 @@
+Po uruchomieniu aplikacji i wpisaniu w przeglądarce localhost:8080 wyświetli się poniższa instrukcja:
+Aby skorzystać z zaimplementowanej funkcjonalności jako endpoint należy do URL dopisać "/API?str=" oraz dowolny string.
